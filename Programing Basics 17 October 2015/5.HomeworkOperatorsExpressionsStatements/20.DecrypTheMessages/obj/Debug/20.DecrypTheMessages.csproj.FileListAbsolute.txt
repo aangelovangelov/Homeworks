@@ -1,0 +1,7 @@
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\HomeworkOperatorsExpressionsStatements\20.DecrypTheMessages\bin\Debug\20.DecrypTheMessages.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\HomeworkOperatorsExpressionsStatements\20.DecrypTheMessages\bin\Debug\20.DecrypTheMessages.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\HomeworkOperatorsExpressionsStatements\20.DecrypTheMessages\obj\Debug\20.DecrypTheMessages.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\HomeworkOperatorsExpressionsStatements\20.DecrypTheMessages\obj\Debug\20.DecrypTheMessages.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\HomeworkOperatorsExpressionsStatements\20.DecrypTheMessages\obj\Debug\20.DecrypTheMessages.pdb
+D:\SoftUni Homework\5.HomeworkOperatorsExpressionsStatements\20.DecrypTheMessages\obj\Debug\20.DecrypTheMessages.exe
+D:\SoftUni Homework\5.HomeworkOperatorsExpressionsStatements\20.DecrypTheMessages\obj\Debug\20.DecrypTheMessages.pdb

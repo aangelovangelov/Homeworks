@@ -1,0 +1,8 @@
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\HomeworkAdvancedTopics\05.SortingNumbers\bin\Debug\05.SortingNumbers.exe.config
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\HomeworkAdvancedTopics\05.SortingNumbers\bin\Debug\05.SortingNumbers.exe
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\HomeworkAdvancedTopics\05.SortingNumbers\bin\Debug\05.SortingNumbers.pdb
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\HomeworkAdvancedTopics\05.SortingNumbers\obj\Debug\05.SortingNumbers.exe
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\HomeworkAdvancedTopics\05.SortingNumbers\obj\Debug\05.SortingNumbers.pdb
+D:\SoftUni Homework\8.HomeworkAdvancedTopics\05.SortingNumbers\bin\Debug\05.SortingNumbers.exe.config
+D:\SoftUni Homework\8.HomeworkAdvancedTopics\05.SortingNumbers\obj\Debug\05.SortingNumbers.exe
+D:\SoftUni Homework\8.HomeworkAdvancedTopics\05.SortingNumbers\obj\Debug\05.SortingNumbers.pdb

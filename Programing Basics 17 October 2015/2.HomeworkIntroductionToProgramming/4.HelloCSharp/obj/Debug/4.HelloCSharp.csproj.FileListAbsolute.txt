@@ -1,0 +1,5 @@
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkIntroductionToProgramming\4.HelloCSharp\bin\Debug\4.HelloCSharp.exe
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkIntroductionToProgramming\4.HelloCSharp\bin\Debug\4.HelloCSharp.pdb
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkIntroductionToProgramming\4.HelloCSharp\obj\Debug\4.HelloCSharp.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkIntroductionToProgramming\4.HelloCSharp\obj\Debug\4.HelloCSharp.exe
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkIntroductionToProgramming\4.HelloCSharp\obj\Debug\4.HelloCSharp.pdb

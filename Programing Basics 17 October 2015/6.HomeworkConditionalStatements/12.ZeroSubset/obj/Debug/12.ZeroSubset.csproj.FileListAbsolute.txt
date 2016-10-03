@@ -1,0 +1,7 @@
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\HomeworkConditionalStatements\12.ZeroSubset\bin\Debug\12.ZeroSubset.exe
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\HomeworkConditionalStatements\12.ZeroSubset\bin\Debug\12.ZeroSubset.pdb
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\HomeworkConditionalStatements\12.ZeroSubset\obj\Debug\12.ZeroSubset.exe
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\HomeworkConditionalStatements\12.ZeroSubset\obj\Debug\12.ZeroSubset.pdb
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\HomeworkConditionalStatements\12.ZeroSubset\obj\Debug\12.ZeroSubset.csprojResolveAssemblyReference.cache
+D:\SoftUni Homework\6.HomeworkConditionalStatements\12.ZeroSubset\obj\Debug\12.ZeroSubset.exe
+D:\SoftUni Homework\6.HomeworkConditionalStatements\12.ZeroSubset\obj\Debug\12.ZeroSubset.pdb

@@ -1,0 +1,5 @@
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\HomeworkConsoleInputOutput\11.NumbersInIntervalDividableByGivenNumber\bin\Debug\11.NumbersInIntervalDividableByGivenNumber.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\HomeworkConsoleInputOutput\11.NumbersInIntervalDividableByGivenNumber\bin\Debug\11.NumbersInIntervalDividableByGivenNumber.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\HomeworkConsoleInputOutput\11.NumbersInIntervalDividableByGivenNumber\obj\Debug\11.NumbersInIntervalDividableByGivenNumber.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\HomeworkConsoleInputOutput\11.NumbersInIntervalDividableByGivenNumber\obj\Debug\11.NumbersInIntervalDividableByGivenNumber.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\HomeworkConsoleInputOutput\11.NumbersInIntervalDividableByGivenNumber\obj\Debug\11.NumbersInIntervalDividableByGivenNumber.pdb

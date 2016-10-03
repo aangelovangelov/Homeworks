@@ -1,0 +1,2 @@
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\HomeworkIntroductionToProgramming\8.SquareRoot\obj\Debug\8.SquareRoot.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\HomeworkIntroductionToProgramming\8.SquareRoot\obj\Debug\8.SquareRoot.pdb

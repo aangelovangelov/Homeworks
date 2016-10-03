@@ -1,0 +1,8 @@
+c:\users\angelov\documents\visual studio 2015\Projects\ExercisesAdvancedTopics\03.Integers\bin\Debug\03.Integers.exe.config
+c:\users\angelov\documents\visual studio 2015\Projects\ExercisesAdvancedTopics\03.Integers\bin\Debug\03.Integers.exe
+c:\users\angelov\documents\visual studio 2015\Projects\ExercisesAdvancedTopics\03.Integers\bin\Debug\03.Integers.pdb
+c:\users\angelov\documents\visual studio 2015\Projects\ExercisesAdvancedTopics\03.Integers\obj\Debug\03.Integers.exe
+c:\users\angelov\documents\visual studio 2015\Projects\ExercisesAdvancedTopics\03.Integers\obj\Debug\03.Integers.pdb
+D:\SoftUni Homework\8.HomeworkAdvancedTopics\ExercisesAdvancedTopics\03.Integers\bin\Debug\03.Integers.exe.config
+D:\SoftUni Homework\8.HomeworkAdvancedTopics\ExercisesAdvancedTopics\03.Integers\obj\Debug\03.Integers.exe
+D:\SoftUni Homework\8.HomeworkAdvancedTopics\ExercisesAdvancedTopics\03.Integers\obj\Debug\03.Integers.pdb

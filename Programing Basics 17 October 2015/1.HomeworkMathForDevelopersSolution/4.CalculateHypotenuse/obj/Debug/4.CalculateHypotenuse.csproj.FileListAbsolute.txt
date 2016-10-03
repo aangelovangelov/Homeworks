@@ -1,0 +1,4 @@
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkMathForDevelopersSolution\4.CalculateHypotenuse\bin\Debug\4.CalculateHypotenuse.exe
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkMathForDevelopersSolution\4.CalculateHypotenuse\bin\Debug\4.CalculateHypotenuse.pdb
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkMathForDevelopersSolution\4.CalculateHypotenuse\obj\Debug\4.CalculateHypotenuse.exe
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkMathForDevelopersSolution\4.CalculateHypotenuse\obj\Debug\4.CalculateHypotenuse.pdb

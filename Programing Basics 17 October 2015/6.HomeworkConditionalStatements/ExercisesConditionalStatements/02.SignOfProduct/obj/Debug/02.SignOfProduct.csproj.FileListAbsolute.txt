@@ -1,0 +1,10 @@
+c:\users\alex\documents\visual studio 2015\Projects\ExercisesConditionalStatements\02.SignOfProduct\bin\Debug\02.SignOfProduct.exe
+c:\users\alex\documents\visual studio 2015\Projects\ExercisesConditionalStatements\02.SignOfProduct\bin\Debug\02.SignOfProduct.pdb
+c:\users\alex\documents\visual studio 2015\Projects\ExercisesConditionalStatements\02.SignOfProduct\obj\Debug\02.SignOfProduct.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2015\Projects\ExercisesConditionalStatements\02.SignOfProduct\obj\Debug\02.SignOfProduct.exe
+c:\users\alex\documents\visual studio 2015\Projects\ExercisesConditionalStatements\02.SignOfProduct\obj\Debug\02.SignOfProduct.pdb
+D:\SoftUni Homework\6.HomeworkConditionalStatements\ExercisesConditionalStatements\02.SignOfProduct\obj\Debug\02.SignOfProduct.exe
+D:\SoftUni Homework\6.HomeworkConditionalStatements\ExercisesConditionalStatements\02.SignOfProduct\obj\Debug\02.SignOfProduct.pdb
+D:\SoftUni Homework\6.HomeworkConditionalStatements\ExercisesConditionalStatements\02.SignOfProduct\bin\Debug\02.SignOfProduct.exe
+D:\SoftUni Homework\6.HomeworkConditionalStatements\ExercisesConditionalStatements\02.SignOfProduct\bin\Debug\02.SignOfProduct.pdb
+D:\SoftUni Homework\6.HomeworkConditionalStatements\ExercisesConditionalStatements\02.SignOfProduct\obj\Debug\02.SignOfProduct.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+c:\users\angelov\documents\visual studio 2015\Projects\ExercisesAdvancedTopics\01.MethodsPrintingNumbers\bin\Debug\01.MethodsPrintingNumbers.exe.config
+c:\users\angelov\documents\visual studio 2015\Projects\ExercisesAdvancedTopics\01.MethodsPrintingNumbers\bin\Debug\01.MethodsPrintingNumbers.exe
+c:\users\angelov\documents\visual studio 2015\Projects\ExercisesAdvancedTopics\01.MethodsPrintingNumbers\bin\Debug\01.MethodsPrintingNumbers.pdb
+c:\users\angelov\documents\visual studio 2015\Projects\ExercisesAdvancedTopics\01.MethodsPrintingNumbers\obj\Debug\01.MethodsPrintingNumbers.csprojResolveAssemblyReference.cache
+c:\users\angelov\documents\visual studio 2015\Projects\ExercisesAdvancedTopics\01.MethodsPrintingNumbers\obj\Debug\01.MethodsPrintingNumbers.exe
+c:\users\angelov\documents\visual studio 2015\Projects\ExercisesAdvancedTopics\01.MethodsPrintingNumbers\obj\Debug\01.MethodsPrintingNumbers.pdb
+D:\SoftUni Homework\8.HomeworkAdvancedTopics\ExercisesAdvancedTopics\01.MethodsPrintingNumbers\bin\Debug\01.MethodsPrintingNumbers.exe.config
+D:\SoftUni Homework\8.HomeworkAdvancedTopics\ExercisesAdvancedTopics\01.MethodsPrintingNumbers\obj\Debug\01.MethodsPrintingNumbers.exe
+D:\SoftUni Homework\8.HomeworkAdvancedTopics\ExercisesAdvancedTopics\01.MethodsPrintingNumbers\obj\Debug\01.MethodsPrintingNumbers.pdb

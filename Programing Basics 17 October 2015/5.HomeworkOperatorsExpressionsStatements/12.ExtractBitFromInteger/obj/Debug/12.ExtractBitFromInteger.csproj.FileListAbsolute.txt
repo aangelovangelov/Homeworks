@@ -1,0 +1,5 @@
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\HomeworkOperatorsExpressionsStatements\12.ExtractBitFromInteger\bin\Debug\12.ExtractBitFromInteger.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\HomeworkOperatorsExpressionsStatements\12.ExtractBitFromInteger\bin\Debug\12.ExtractBitFromInteger.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\HomeworkOperatorsExpressionsStatements\12.ExtractBitFromInteger\obj\Debug\12.ExtractBitFromInteger.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\HomeworkOperatorsExpressionsStatements\12.ExtractBitFromInteger\obj\Debug\12.ExtractBitFromInteger.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\HomeworkOperatorsExpressionsStatements\12.ExtractBitFromInteger\obj\Debug\12.ExtractBitFromInteger.pdb

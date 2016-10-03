@@ -1,0 +1,9 @@
+c:\users\angelov\documents\visual studio 2015\Projects\ExercisesAdvancedTopics\05.BubbleSort\bin\Debug\05.BubbleSort.exe.config
+c:\users\angelov\documents\visual studio 2015\Projects\ExercisesAdvancedTopics\05.BubbleSort\bin\Debug\05.BubbleSort.exe
+c:\users\angelov\documents\visual studio 2015\Projects\ExercisesAdvancedTopics\05.BubbleSort\bin\Debug\05.BubbleSort.pdb
+c:\users\angelov\documents\visual studio 2015\Projects\ExercisesAdvancedTopics\05.BubbleSort\obj\Debug\05.BubbleSort.csprojResolveAssemblyReference.cache
+c:\users\angelov\documents\visual studio 2015\Projects\ExercisesAdvancedTopics\05.BubbleSort\obj\Debug\05.BubbleSort.exe
+c:\users\angelov\documents\visual studio 2015\Projects\ExercisesAdvancedTopics\05.BubbleSort\obj\Debug\05.BubbleSort.pdb
+D:\SoftUni Homework\8.HomeworkAdvancedTopics\ExercisesAdvancedTopics\05.BubbleSort\bin\Debug\05.BubbleSort.exe.config
+D:\SoftUni Homework\8.HomeworkAdvancedTopics\ExercisesAdvancedTopics\05.BubbleSort\obj\Debug\05.BubbleSort.exe
+D:\SoftUni Homework\8.HomeworkAdvancedTopics\ExercisesAdvancedTopics\05.BubbleSort\obj\Debug\05.BubbleSort.pdb

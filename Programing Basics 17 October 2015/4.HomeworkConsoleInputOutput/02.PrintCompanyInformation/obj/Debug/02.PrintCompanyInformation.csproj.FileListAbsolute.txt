@@ -1,0 +1,4 @@
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\HomeworkConsoleInputOutput\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\HomeworkConsoleInputOutput\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\HomeworkConsoleInputOutput\02.PrintCompanyInformation\obj\Debug\02.PrintCompanyInformation.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\HomeworkConsoleInputOutput\02.PrintCompanyInformation\obj\Debug\02.PrintCompanyInformation.pdb

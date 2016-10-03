@@ -1,0 +1,9 @@
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkPrimitiveDataTypesAndVariables\05.BooleanVariable\bin\Debug\05.BooleanVariable.exe
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkPrimitiveDataTypesAndVariables\05.BooleanVariable\bin\Debug\05.BooleanVariable.pdb
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkPrimitiveDataTypesAndVariables\05.BooleanVariable\obj\Debug\05.BooleanVariable.exe
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkPrimitiveDataTypesAndVariables\05.BooleanVariable\obj\Debug\05.BooleanVariable.pdb
+D:\SoftUni Homework\3.HomeworkPrimitiveDataTypesAndVariables\05.BooleanVariable\obj\Debug\05.BooleanVariable.exe
+D:\SoftUni Homework\3.HomeworkPrimitiveDataTypesAndVariables\05.BooleanVariable\obj\Debug\05.BooleanVariable.pdb
+D:\SoftUni Homework\3.HomeworkPrimitiveDataTypesAndVariables\05.BooleanVariable\bin\Debug\05.BooleanVariable.exe
+D:\SoftUni Homework\3.HomeworkPrimitiveDataTypesAndVariables\05.BooleanVariable\bin\Debug\05.BooleanVariable.pdb
+D:\SoftUni Homework\3.HomeworkPrimitiveDataTypesAndVariables\05.BooleanVariable\obj\Debug\05.BooleanVariable.csprojResolveAssemblyReference.cache

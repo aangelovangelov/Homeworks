@@ -1,0 +1,4 @@
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\HomeworkOperatorsExpressionsStatements\13.CheckBitAtGivenPosition\bin\Debug\13.CheckBitAtGivenPosition.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\HomeworkOperatorsExpressionsStatements\13.CheckBitAtGivenPosition\bin\Debug\13.CheckBitAtGivenPosition.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\HomeworkOperatorsExpressionsStatements\13.CheckBitAtGivenPosition\obj\Debug\13.CheckBitAtGivenPosition.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\HomeworkOperatorsExpressionsStatements\13.CheckBitAtGivenPosition\obj\Debug\13.CheckBitAtGivenPosition.pdb

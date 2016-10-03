@@ -1,0 +1,5 @@
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkPrimitiveDataTypesAndVariables\11.BankAccountData\bin\Debug\11.BankAccountData.exe
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkPrimitiveDataTypesAndVariables\11.BankAccountData\bin\Debug\11.BankAccountData.pdb
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkPrimitiveDataTypesAndVariables\11.BankAccountData\obj\Debug\11.BankAccountData.exe
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkPrimitiveDataTypesAndVariables\11.BankAccountData\obj\Debug\11.BankAccountData.pdb
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkPrimitiveDataTypesAndVariables\11.BankAccountData\obj\Debug\11.BankAccountData.csprojResolveAssemblyReference.cache

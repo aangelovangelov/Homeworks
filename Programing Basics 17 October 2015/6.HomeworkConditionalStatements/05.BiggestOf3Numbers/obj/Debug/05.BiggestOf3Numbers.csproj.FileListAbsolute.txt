@@ -1,0 +1,6 @@
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\HomeworkConditionalStatements\05.BiggestOf3Numbers\bin\Debug\05.BiggestOf3Numbers.exe
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\HomeworkConditionalStatements\05.BiggestOf3Numbers\bin\Debug\05.BiggestOf3Numbers.pdb
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\HomeworkConditionalStatements\05.BiggestOf3Numbers\obj\Debug\05.BiggestOf3Numbers.exe
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\HomeworkConditionalStatements\05.BiggestOf3Numbers\obj\Debug\05.BiggestOf3Numbers.pdb
+D:\SoftUni Homework\6.HomeworkConditionalStatements\05.BiggestOf3Numbers\obj\Debug\05.BiggestOf3Numbers.exe
+D:\SoftUni Homework\6.HomeworkConditionalStatements\05.BiggestOf3Numbers\obj\Debug\05.BiggestOf3Numbers.pdb

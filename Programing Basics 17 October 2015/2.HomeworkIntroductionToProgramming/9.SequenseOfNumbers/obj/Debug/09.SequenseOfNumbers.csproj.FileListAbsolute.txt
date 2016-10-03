@@ -1,0 +1,6 @@
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\HomeworkIntroductionToProgramming\9.SequenseOfNumbers\obj\Debug\9.SequenseOfNumbers.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\HomeworkIntroductionToProgramming\9.SequenseOfNumbers\obj\Debug\9.SequenseOfNumbers.pdb
+D:\SoftUni Homework\2.HomeworkIntroductionToProgramming\9.SequenseOfNumbers\obj\Debug\9.SequenseOfNumbers.exe
+D:\SoftUni Homework\2.HomeworkIntroductionToProgramming\9.SequenseOfNumbers\obj\Debug\9.SequenseOfNumbers.pdb
+D:\SoftUni Homework\2.HomeworkIntroductionToProgramming\9.SequenseOfNumbers\bin\Debug\9.SequenseOfNumbers.exe
+D:\SoftUni Homework\2.HomeworkIntroductionToProgramming\9.SequenseOfNumbers\bin\Debug\9.SequenseOfNumbers.pdb

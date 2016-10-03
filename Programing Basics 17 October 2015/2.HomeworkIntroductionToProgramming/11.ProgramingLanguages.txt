@@ -1,0 +1,57 @@
+JAVA
+Topping the Mashable's most popular programming languages list is Java. 
+Java is seen as the programming language of choice for IoT, enterprise architecture
+and cloud computing.The language has also been raked on top by efinancialcareers's
+survey for most in-demand programming languages on Wall Street in 2015.
+Java is also at the central of a patent battle between Google and Oracle. 
+Oracle sued Google in 2010, claiming that Google had improperly incorporated parts
+of Java into Android.
+
+JavaScript
+Next on the list is JavaScript. Widely regarded as the language of the web
+it is used to add interactivity to web pages. The language supports all major 
+web browsers including Safari, Internet Explorer and Firefox.
+
+C#
+Third on the list is Microsoft's C#. According to the company, "You can use C# 
+to create Windows client applications, XML Web services, distributed components
+client-server applications, database applications, and much, much more.
+Visual C# provides an advanced code editor, convenient user interface designers 
+integrated debugger, and many other tools to make it easier to develop applications 
+based on the C# language and the .NET Framework."
+
+PHP
+Next on the list is PHP, the language which forms the backbone of many present-day 
+content management systems including WordPress.The language regarded as an essential
+tool for building modern web applications was originally created by Rasmus Lerdorf
+in 1994.
+
+C++
+The fifth hottest programming language to learn in 2015 is C++. A general purpose 
+language, it is considered as the go-to language for high-volume/high frequency 
+trading.The language also figures in prominently in efinancialcareers's survey. 
+"Due to the high cost of moving to new technologies there will continue to be 
+significant demand for those who can programme in languages compatible with the 
+legacy environment,” says the survey quoting Gina Schiller, vice president at 
+Jay Gaines & Company.The language has also been standardized by the 
+International Organization for Standardization (ISO).
+
+Python
+The general purpose, object-oriented language Python ranks at No. 6 on the 
+Mashable's list. Considered as programming language for everybody, Python's source 
+code is freely available and open for modification and reuse.According to a recent 
+WANTED Analytics, demand for Python programming expertise increased 96.9% in
+big-data related positions in the last twelve months. Some of the topBig Data 
+employers of 2014 are Cisco, IBM, Oracle, Teradata and Sabre.
+
+C
+The next language on Mashable's '15 programming languages you need to know in 2015'
+list is C. The language was originally developed at AT&T Bell Labs by Dennis Ritchie
+between 1969 and 1973.According to Mashable, C is in demand as it is "...small 
+fast and powerful. If you’re building software for embedded systems, working with 
+system kernels or just want to squeeze every last drop of the resources you have 
+at hand, C is lean, mean and ready to scream."
+
+
+
+

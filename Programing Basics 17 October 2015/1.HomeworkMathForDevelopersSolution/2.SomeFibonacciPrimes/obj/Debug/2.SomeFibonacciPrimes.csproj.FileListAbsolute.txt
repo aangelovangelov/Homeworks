@@ -1,0 +1,7 @@
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkMathForDevelopersSolution\2.SomeFibonacciPrimes\bin\Debug\2.SomeFibonacciPrimes.exe
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkMathForDevelopersSolution\2.SomeFibonacciPrimes\bin\Debug\2.SomeFibonacciPrimes.pdb
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkMathForDevelopersSolution\2.SomeFibonacciPrimes\obj\Debug\2.SomeFibonacciPrimes.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkMathForDevelopersSolution\2.SomeFibonacciPrimes\obj\Debug\2.SomeFibonacciPrimes.exe
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkMathForDevelopersSolution\2.SomeFibonacciPrimes\obj\Debug\2.SomeFibonacciPrimes.pdb
+D:\SoftUni Homework\HomeworkMathForDevelopersSolution\2.SomeFibonacciPrimes\obj\Debug\2.SomeFibonacciPrimes.exe
+D:\SoftUni Homework\HomeworkMathForDevelopersSolution\2.SomeFibonacciPrimes\obj\Debug\2.SomeFibonacciPrimes.pdb

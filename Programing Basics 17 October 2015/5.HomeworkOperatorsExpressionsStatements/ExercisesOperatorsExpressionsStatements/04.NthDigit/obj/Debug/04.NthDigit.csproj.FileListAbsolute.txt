@@ -1,0 +1,5 @@
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\ExercisesOperatorsExpressionsStatements\04.NthDigit\bin\Debug\04.NthDigit.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\ExercisesOperatorsExpressionsStatements\04.NthDigit\bin\Debug\04.NthDigit.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\ExercisesOperatorsExpressionsStatements\04.NthDigit\obj\Debug\04.NthDigit.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\ExercisesOperatorsExpressionsStatements\04.NthDigit\obj\Debug\04.NthDigit.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\ExercisesOperatorsExpressionsStatements\04.NthDigit\obj\Debug\04.NthDigit.pdb

@@ -1,0 +1,12 @@
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\HomeworkAdvancedTopics\06.LongestAreaInArray\bin\Debug\06.LongestAreaInArray.exe.config
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\HomeworkAdvancedTopics\06.LongestAreaInArray\bin\Debug\06.LongestAreaInArray.exe
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\HomeworkAdvancedTopics\06.LongestAreaInArray\bin\Debug\06.LongestAreaInArray.pdb
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\HomeworkAdvancedTopics\06.LongestAreaInArray\obj\Debug\06.LongestAreaInArray.exe
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\HomeworkAdvancedTopics\06.LongestAreaInArray\obj\Debug\06.LongestAreaInArray.pdb
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\HomeworkAdvancedTopics\06.LongestAreaInArray\obj\Debug\06.LongestAreaInArray.csprojResolveAssemblyReference.cache
+D:\SoftUni Homework\8.HomeworkAdvancedTopics\06.LongestAreaInArray\bin\Debug\06.LongestAreaInArray.exe.config
+D:\SoftUni Homework\8.HomeworkAdvancedTopics\06.LongestAreaInArray\obj\Debug\06.LongestAreaInArray.exe
+D:\SoftUni Homework\8.HomeworkAdvancedTopics\06.LongestAreaInArray\obj\Debug\06.LongestAreaInArray.pdb
+D:\SoftUni Homework\8.HomeworkAdvancedTopics\06.LongestAreaInArray\bin\Debug\06.LongestAreaInArray.exe
+D:\SoftUni Homework\8.HomeworkAdvancedTopics\06.LongestAreaInArray\bin\Debug\06.LongestAreaInArray.pdb
+D:\SoftUni Homework\8.HomeworkAdvancedTopics\06.LongestAreaInArray\obj\Debug\06.LongestAreaInArray.csprojResolveAssemblyReference.cache

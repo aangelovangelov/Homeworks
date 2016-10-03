@@ -1,0 +1,6 @@
+D:\SoftUni Homework\8.HomeworkAdvancedTopics\11.CountLetters\bin\Debug\11.CountLetters.exe.config
+D:\SoftUni Homework\8.HomeworkAdvancedTopics\11.CountLetters\bin\Debug\11.CountLetters.exe
+D:\SoftUni Homework\8.HomeworkAdvancedTopics\11.CountLetters\bin\Debug\11.CountLetters.pdb
+D:\SoftUni Homework\8.HomeworkAdvancedTopics\11.CountLetters\obj\Debug\11.CountLetters.csprojResolveAssemblyReference.cache
+D:\SoftUni Homework\8.HomeworkAdvancedTopics\11.CountLetters\obj\Debug\11.CountLetters.exe
+D:\SoftUni Homework\8.HomeworkAdvancedTopics\11.CountLetters\obj\Debug\11.CountLetters.pdb

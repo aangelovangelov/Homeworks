@@ -1,0 +1,4 @@
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\HomeworkConsoleInputOutput\08.NumbersFromOneToN\bin\Debug\08.NumbersFromOneToN.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\HomeworkConsoleInputOutput\08.NumbersFromOneToN\bin\Debug\08.NumbersFromOneToN.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\HomeworkConsoleInputOutput\08.NumbersFromOneToN\obj\Debug\08.NumbersFromOneToN.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\HomeworkConsoleInputOutput\08.NumbersFromOneToN\obj\Debug\08.NumbersFromOneToN.pdb

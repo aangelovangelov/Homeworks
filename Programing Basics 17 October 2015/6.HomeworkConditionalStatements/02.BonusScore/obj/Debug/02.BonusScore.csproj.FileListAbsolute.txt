@@ -1,0 +1,6 @@
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\HomeworkConditionalStatements\02.BonusScore\bin\Debug\02.BonusScore.exe
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\HomeworkConditionalStatements\02.BonusScore\bin\Debug\02.BonusScore.pdb
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\HomeworkConditionalStatements\02.BonusScore\obj\Debug\02.BonusScore.exe
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\HomeworkConditionalStatements\02.BonusScore\obj\Debug\02.BonusScore.pdb
+D:\SoftUni Homework\6.HomeworkConditionalStatements\02.BonusScore\obj\Debug\02.BonusScore.exe
+D:\SoftUni Homework\6.HomeworkConditionalStatements\02.BonusScore\obj\Debug\02.BonusScore.pdb

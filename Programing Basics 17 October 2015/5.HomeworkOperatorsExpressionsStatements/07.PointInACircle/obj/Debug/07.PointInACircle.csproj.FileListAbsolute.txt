@@ -1,0 +1,5 @@
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkOperatorsExpressionsStatements\07.PointInACircle\bin\Debug\07.PointInACircle.exe
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkOperatorsExpressionsStatements\07.PointInACircle\bin\Debug\07.PointInACircle.pdb
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkOperatorsExpressionsStatements\07.PointInACircle\obj\Debug\07.PointInACircle.exe
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkOperatorsExpressionsStatements\07.PointInACircle\obj\Debug\07.PointInACircle.pdb
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkOperatorsExpressionsStatements\07.PointInACircle\obj\Debug\07.PointInACircle.csprojResolveAssemblyReference.cache

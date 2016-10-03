@@ -1,0 +1,2 @@
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\HomeworkIntroductionToProgramming\6.PrintNumbers\obj\Debug\6.PrintNumbers.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\HomeworkIntroductionToProgramming\6.PrintNumbers\obj\Debug\6.PrintNumbers.pdb

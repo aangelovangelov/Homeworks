@@ -1,0 +1,10 @@
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkIntroductionToProgramming\15.AgeAfterTenYears\bin\Debug\15.AgeAfterTenYears.exe
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkIntroductionToProgramming\15.AgeAfterTenYears\bin\Debug\15.AgeAfterTenYears.pdb
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkIntroductionToProgramming\15.AgeAfterTenYears\obj\Debug\15.AgeAfterTenYears.exe
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkIntroductionToProgramming\15.AgeAfterTenYears\obj\Debug\15.AgeAfterTenYears.pdb
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkIntroductionToProgramming\15.AgeAfterTenYears\obj\Debug\15.AgeAfterTenYears.csprojResolveAssemblyReference.cache
+D:\SoftUni Homework\2.HomeworkIntroductionToProgramming\15.AgeAfterTenYears\obj\Debug\15.AgeAfterTenYears.exe
+D:\SoftUni Homework\2.HomeworkIntroductionToProgramming\15.AgeAfterTenYears\obj\Debug\15.AgeAfterTenYears.pdb
+D:\SoftUni Homework\2.HomeworkIntroductionToProgramming\15.AgeAfterTenYears\bin\Debug\15.AgeAfterTenYears.exe
+D:\SoftUni Homework\2.HomeworkIntroductionToProgramming\15.AgeAfterTenYears\bin\Debug\15.AgeAfterTenYears.pdb
+D:\SoftUni Homework\2.HomeworkIntroductionToProgramming\15.AgeAfterTenYears\obj\Debug\15.AgeAfterTenYears.csprojResolveAssemblyReference.cache

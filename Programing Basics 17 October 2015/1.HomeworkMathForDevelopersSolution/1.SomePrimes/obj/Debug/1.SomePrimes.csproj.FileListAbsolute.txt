@@ -1,0 +1,9 @@
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkMathForDevelopersSolution\1.SomePrimes\bin\Debug\1.SomePrimes.exe
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkMathForDevelopersSolution\1.SomePrimes\bin\Debug\1.SomePrimes.pdb
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkMathForDevelopersSolution\1.SomePrimes\obj\Debug\1.SomePrimes.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkMathForDevelopersSolution\1.SomePrimes\obj\Debug\1.SomePrimes.exe
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkMathForDevelopersSolution\1.SomePrimes\obj\Debug\1.SomePrimes.pdb
+D:\SoftUni Homework\HomeworkMathForDevelopersSolution\1.SomePrimes\obj\Debug\1.SomePrimes.exe
+D:\SoftUni Homework\HomeworkMathForDevelopersSolution\1.SomePrimes\obj\Debug\1.SomePrimes.pdb
+D:\SoftUni Homework\Programing Basics 17 October 2015\1.HomeworkMathForDevelopersSolution\1.SomePrimes\obj\Debug\1.SomePrimes.exe
+D:\SoftUni Homework\Programing Basics 17 October 2015\1.HomeworkMathForDevelopersSolution\1.SomePrimes\obj\Debug\1.SomePrimes.pdb

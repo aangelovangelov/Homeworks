@@ -1,0 +1,9 @@
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\HomeworkAdvancedTopics\04.DifferenceBetweenDates\bin\Debug\04.DifferenceBetweenDates.exe.config
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\HomeworkAdvancedTopics\04.DifferenceBetweenDates\bin\Debug\04.DifferenceBetweenDates.exe
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\HomeworkAdvancedTopics\04.DifferenceBetweenDates\bin\Debug\04.DifferenceBetweenDates.pdb
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\HomeworkAdvancedTopics\04.DifferenceBetweenDates\obj\Debug\04.DifferenceBetweenDates.csprojResolveAssemblyReference.cache
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\HomeworkAdvancedTopics\04.DifferenceBetweenDates\obj\Debug\04.DifferenceBetweenDates.exe
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\HomeworkAdvancedTopics\04.DifferenceBetweenDates\obj\Debug\04.DifferenceBetweenDates.pdb
+D:\SoftUni Homework\8.HomeworkAdvancedTopics\04.DifferenceBetweenDates\bin\Debug\04.DifferenceBetweenDates.exe.config
+D:\SoftUni Homework\8.HomeworkAdvancedTopics\04.DifferenceBetweenDates\obj\Debug\04.DifferenceBetweenDates.exe
+D:\SoftUni Homework\8.HomeworkAdvancedTopics\04.DifferenceBetweenDates\obj\Debug\04.DifferenceBetweenDates.pdb

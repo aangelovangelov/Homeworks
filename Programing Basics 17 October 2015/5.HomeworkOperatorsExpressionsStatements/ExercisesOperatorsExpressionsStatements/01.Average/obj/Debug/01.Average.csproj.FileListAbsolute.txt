@@ -1,0 +1,5 @@
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\ExercisesOperatorsExpressionsStatements\01.Average\bin\Debug\01.Average.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\ExercisesOperatorsExpressionsStatements\01.Average\bin\Debug\01.Average.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\ExercisesOperatorsExpressionsStatements\01.Average\obj\Debug\01.Average.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\ExercisesOperatorsExpressionsStatements\01.Average\obj\Debug\01.Average.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\ExercisesOperatorsExpressionsStatements\01.Average\obj\Debug\01.Average.pdb

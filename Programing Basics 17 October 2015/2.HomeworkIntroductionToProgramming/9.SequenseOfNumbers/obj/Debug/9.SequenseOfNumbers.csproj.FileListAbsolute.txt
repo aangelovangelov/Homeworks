@@ -1,0 +1,4 @@
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkIntroductionToProgramming\9.SequenseOfNumbers\bin\Debug\9.SequenseOfNumbers.exe
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkIntroductionToProgramming\9.SequenseOfNumbers\bin\Debug\9.SequenseOfNumbers.pdb
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkIntroductionToProgramming\9.SequenseOfNumbers\obj\Debug\9.SequenseOfNumbers.exe
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkIntroductionToProgramming\9.SequenseOfNumbers\obj\Debug\9.SequenseOfNumbers.pdb

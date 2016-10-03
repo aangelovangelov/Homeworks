@@ -1,0 +1,6 @@
+c:\users\alex\documents\visual studio 2015\Projects\ExercisesConditionalStatements\03.NumberAsDayOfWeek\bin\Debug\03.NumberAsDayOfWeek.exe
+c:\users\alex\documents\visual studio 2015\Projects\ExercisesConditionalStatements\03.NumberAsDayOfWeek\bin\Debug\03.NumberAsDayOfWeek.pdb
+c:\users\alex\documents\visual studio 2015\Projects\ExercisesConditionalStatements\03.NumberAsDayOfWeek\obj\Debug\03.NumberAsDayOfWeek.exe
+c:\users\alex\documents\visual studio 2015\Projects\ExercisesConditionalStatements\03.NumberAsDayOfWeek\obj\Debug\03.NumberAsDayOfWeek.pdb
+D:\SoftUni Homework\6.HomeworkConditionalStatements\ExercisesConditionalStatements\03.NumberAsDayOfWeek\obj\Debug\03.NumberAsDayOfWeek.exe
+D:\SoftUni Homework\6.HomeworkConditionalStatements\ExercisesConditionalStatements\03.NumberAsDayOfWeek\obj\Debug\03.NumberAsDayOfWeek.pdb

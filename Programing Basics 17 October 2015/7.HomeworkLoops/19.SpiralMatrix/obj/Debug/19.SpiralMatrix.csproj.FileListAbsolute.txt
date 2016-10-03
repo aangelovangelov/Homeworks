@@ -1,0 +1,10 @@
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\07.HomeworkLoops\19.SpiralMatrix\bin\Debug\19.SpiralMatrix.exe
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\07.HomeworkLoops\19.SpiralMatrix\bin\Debug\19.SpiralMatrix.pdb
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\07.HomeworkLoops\19.SpiralMatrix\obj\Debug\19.SpiralMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\07.HomeworkLoops\19.SpiralMatrix\obj\Debug\19.SpiralMatrix.exe
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\07.HomeworkLoops\19.SpiralMatrix\obj\Debug\19.SpiralMatrix.pdb
+D:\SoftUni Homework\07.HomeworkLoops\19.SpiralMatrix\obj\Debug\19.SpiralMatrix.exe
+D:\SoftUni Homework\07.HomeworkLoops\19.SpiralMatrix\obj\Debug\19.SpiralMatrix.pdb
+D:\SoftUni Homework\07.HomeworkLoops\19.SpiralMatrix\bin\Debug\19.SpiralMatrix.exe
+D:\SoftUni Homework\07.HomeworkLoops\19.SpiralMatrix\bin\Debug\19.SpiralMatrix.pdb
+D:\SoftUni Homework\07.HomeworkLoops\19.SpiralMatrix\obj\Debug\19.SpiralMatrix.csprojResolveAssemblyReference.cache

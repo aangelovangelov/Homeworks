@@ -1,0 +1,7 @@
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\HomeworkConditionalStatements\08.DigitAsWord\bin\Debug\08.DigitAsWord.exe
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\HomeworkConditionalStatements\08.DigitAsWord\bin\Debug\08.DigitAsWord.pdb
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\HomeworkConditionalStatements\08.DigitAsWord\obj\Debug\08.DigitAsWord.csprojResolveAssemblyReference.cache
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\HomeworkConditionalStatements\08.DigitAsWord\obj\Debug\08.DigitAsWord.exe
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\HomeworkConditionalStatements\08.DigitAsWord\obj\Debug\08.DigitAsWord.pdb
+D:\SoftUni Homework\6.HomeworkConditionalStatements\08.DigitAsWord\obj\Debug\08.DigitAsWord.exe
+D:\SoftUni Homework\6.HomeworkConditionalStatements\08.DigitAsWord\obj\Debug\08.DigitAsWord.pdb

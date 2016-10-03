@@ -1,0 +1,5 @@
+c:\users\angelov\documents\visual studio 2015\Projects\07.HomeworkLoops\03.MinMaxSumAverageOfNNumbers\bin\Debug\03.MinMaxSumAverageOfNNumbers.exe
+c:\users\angelov\documents\visual studio 2015\Projects\07.HomeworkLoops\03.MinMaxSumAverageOfNNumbers\bin\Debug\03.MinMaxSumAverageOfNNumbers.pdb
+c:\users\angelov\documents\visual studio 2015\Projects\07.HomeworkLoops\03.MinMaxSumAverageOfNNumbers\obj\Debug\03.MinMaxSumAverageOfNNumbers.csprojResolveAssemblyReference.cache
+c:\users\angelov\documents\visual studio 2015\Projects\07.HomeworkLoops\03.MinMaxSumAverageOfNNumbers\obj\Debug\03.MinMaxSumAverageOfNNumbers.exe
+c:\users\angelov\documents\visual studio 2015\Projects\07.HomeworkLoops\03.MinMaxSumAverageOfNNumbers\obj\Debug\03.MinMaxSumAverageOfNNumbers.pdb

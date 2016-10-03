@@ -1,0 +1,9 @@
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\HomeworkConditionalStatements\06.BiggestOf5Numbers\bin\Debug\06.BiggestOf5Numbers.exe
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\HomeworkConditionalStatements\06.BiggestOf5Numbers\bin\Debug\06.BiggestOf5Numbers.pdb
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\HomeworkConditionalStatements\06.BiggestOf5Numbers\obj\Debug\06.BiggestOf5Numbers.exe
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\HomeworkConditionalStatements\06.BiggestOf5Numbers\obj\Debug\06.BiggestOf5Numbers.pdb
+D:\SoftUni Homework\6.HomeworkConditionalStatements\06.BiggestOf5Numbers\obj\Debug\06.BiggestOf5Numbers.exe
+D:\SoftUni Homework\6.HomeworkConditionalStatements\06.BiggestOf5Numbers\obj\Debug\06.BiggestOf5Numbers.pdb
+D:\SoftUni Homework\6.HomeworkConditionalStatements\06.BiggestOf5Numbers\bin\Debug\06.BiggestOf5Numbers.exe
+D:\SoftUni Homework\6.HomeworkConditionalStatements\06.BiggestOf5Numbers\bin\Debug\06.BiggestOf5Numbers.pdb
+D:\SoftUni Homework\6.HomeworkConditionalStatements\06.BiggestOf5Numbers\obj\Debug\06.BiggestOf5Numbers.csprojResolveAssemblyReference.cache

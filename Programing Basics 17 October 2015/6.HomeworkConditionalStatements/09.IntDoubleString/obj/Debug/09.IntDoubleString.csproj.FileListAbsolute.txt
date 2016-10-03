@@ -1,0 +1,7 @@
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\HomeworkConditionalStatements\09.IntDoubleString\bin\Debug\09.IntDoubleString.exe
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\HomeworkConditionalStatements\09.IntDoubleString\bin\Debug\09.IntDoubleString.pdb
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\HomeworkConditionalStatements\09.IntDoubleString\obj\Debug\09.IntDoubleString.csprojResolveAssemblyReference.cache
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\HomeworkConditionalStatements\09.IntDoubleString\obj\Debug\09.IntDoubleString.exe
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\HomeworkConditionalStatements\09.IntDoubleString\obj\Debug\09.IntDoubleString.pdb
+D:\SoftUni Homework\6.HomeworkConditionalStatements\09.IntDoubleString\obj\Debug\09.IntDoubleString.exe
+D:\SoftUni Homework\6.HomeworkConditionalStatements\09.IntDoubleString\obj\Debug\09.IntDoubleString.pdb

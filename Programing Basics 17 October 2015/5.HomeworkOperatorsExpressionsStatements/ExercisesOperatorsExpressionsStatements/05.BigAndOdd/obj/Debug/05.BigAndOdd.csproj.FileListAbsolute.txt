@@ -1,0 +1,5 @@
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\ExercisesOperatorsExpressionsStatements\05.BigAndOdd\bin\Debug\05.BigAndOdd.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\ExercisesOperatorsExpressionsStatements\05.BigAndOdd\bin\Debug\05.BigAndOdd.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\ExercisesOperatorsExpressionsStatements\05.BigAndOdd\obj\Debug\05.BigAndOdd.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\ExercisesOperatorsExpressionsStatements\05.BigAndOdd\obj\Debug\05.BigAndOdd.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\ExercisesOperatorsExpressionsStatements\05.BigAndOdd\obj\Debug\05.BigAndOdd.pdb

@@ -1,0 +1,4 @@
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkMathForDevelopersSolution\3.SomeFactorials\bin\Debug\3.SomeFactorials.exe
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkMathForDevelopersSolution\3.SomeFactorials\bin\Debug\3.SomeFactorials.pdb
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkMathForDevelopersSolution\3.SomeFactorials\obj\Debug\3.SomeFactorials.exe
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkMathForDevelopersSolution\3.SomeFactorials\obj\Debug\3.SomeFactorials.pdb

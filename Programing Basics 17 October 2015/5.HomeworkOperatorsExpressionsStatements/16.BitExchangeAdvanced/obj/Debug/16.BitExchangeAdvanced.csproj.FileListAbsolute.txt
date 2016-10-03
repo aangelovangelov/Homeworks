@@ -1,0 +1,5 @@
+D:\SoftUni Homework\5.HomeworkOperatorsExpressionsStatements\16.BitExchangeAdvanced\bin\Debug\16.BitExchangeAdvanced.exe
+D:\SoftUni Homework\5.HomeworkOperatorsExpressionsStatements\16.BitExchangeAdvanced\bin\Debug\16.BitExchangeAdvanced.pdb
+D:\SoftUni Homework\5.HomeworkOperatorsExpressionsStatements\16.BitExchangeAdvanced\obj\Debug\16.BitExchangeAdvanced.csprojResolveAssemblyReference.cache
+D:\SoftUni Homework\5.HomeworkOperatorsExpressionsStatements\16.BitExchangeAdvanced\obj\Debug\16.BitExchangeAdvanced.exe
+D:\SoftUni Homework\5.HomeworkOperatorsExpressionsStatements\16.BitExchangeAdvanced\obj\Debug\16.BitExchangeAdvanced.pdb

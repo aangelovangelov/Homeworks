@@ -1,0 +1,4 @@
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkOperatorsExpressionsStatements\05.ThirdDigitIs7\bin\Debug\05.ThirdDigitIs7.exe
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkOperatorsExpressionsStatements\05.ThirdDigitIs7\bin\Debug\05.ThirdDigitIs7.pdb
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkOperatorsExpressionsStatements\05.ThirdDigitIs7\obj\Debug\05.ThirdDigitIs7.exe
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkOperatorsExpressionsStatements\05.ThirdDigitIs7\obj\Debug\05.ThirdDigitIs7.pdb

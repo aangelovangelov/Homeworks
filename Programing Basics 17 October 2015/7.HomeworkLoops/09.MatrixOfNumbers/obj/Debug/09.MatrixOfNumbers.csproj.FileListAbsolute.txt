@@ -1,0 +1,4 @@
+c:\users\angelov\documents\visual studio 2015\Projects\07.HomeworkLoops\09.MatrixOfNumbers\bin\Debug\09.MatrixOfNumbers.exe
+c:\users\angelov\documents\visual studio 2015\Projects\07.HomeworkLoops\09.MatrixOfNumbers\bin\Debug\09.MatrixOfNumbers.pdb
+c:\users\angelov\documents\visual studio 2015\Projects\07.HomeworkLoops\09.MatrixOfNumbers\obj\Debug\09.MatrixOfNumbers.exe
+c:\users\angelov\documents\visual studio 2015\Projects\07.HomeworkLoops\09.MatrixOfNumbers\obj\Debug\09.MatrixOfNumbers.pdb

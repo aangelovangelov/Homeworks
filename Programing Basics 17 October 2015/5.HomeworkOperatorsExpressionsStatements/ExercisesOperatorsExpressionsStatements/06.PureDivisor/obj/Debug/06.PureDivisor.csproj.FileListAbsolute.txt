@@ -1,0 +1,5 @@
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\ExercisesOperatorsExpressionsStatements\06.PureDivisor\bin\Debug\06.PureDivisor.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\ExercisesOperatorsExpressionsStatements\06.PureDivisor\bin\Debug\06.PureDivisor.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\ExercisesOperatorsExpressionsStatements\06.PureDivisor\obj\Debug\06.PureDivisor.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\ExercisesOperatorsExpressionsStatements\06.PureDivisor\obj\Debug\06.PureDivisor.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\ExercisesOperatorsExpressionsStatements\06.PureDivisor\obj\Debug\06.PureDivisor.pdb

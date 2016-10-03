@@ -1,0 +1,7 @@
+c:\users\angelov\documents\visual studio 2015\Projects\07.HomeworkLoops\01.NumbersFrom1ToN\bin\Debug\01.NumbersFrom1ToN.exe
+c:\users\angelov\documents\visual studio 2015\Projects\07.HomeworkLoops\01.NumbersFrom1ToN\bin\Debug\01.NumbersFrom1ToN.pdb
+c:\users\angelov\documents\visual studio 2015\Projects\07.HomeworkLoops\01.NumbersFrom1ToN\obj\Debug\01.NumbersFrom1ToN.csprojResolveAssemblyReference.cache
+c:\users\angelov\documents\visual studio 2015\Projects\07.HomeworkLoops\01.NumbersFrom1ToN\obj\Debug\01.NumbersFrom1ToN.exe
+c:\users\angelov\documents\visual studio 2015\Projects\07.HomeworkLoops\01.NumbersFrom1ToN\obj\Debug\01.NumbersFrom1ToN.pdb
+D:\SoftUni Homework\07.HomeworkLoops\01.NumbersFrom1ToN\obj\Debug\01.NumbersFrom1ToN.exe
+D:\SoftUni Homework\07.HomeworkLoops\01.NumbersFrom1ToN\obj\Debug\01.NumbersFrom1ToN.pdb

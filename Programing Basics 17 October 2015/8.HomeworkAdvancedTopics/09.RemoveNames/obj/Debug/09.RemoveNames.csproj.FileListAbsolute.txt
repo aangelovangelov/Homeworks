@@ -1,0 +1,12 @@
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\HomeworkAdvancedTopics\09.RemoveNames\bin\Debug\09.RemoveNames.exe.config
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\HomeworkAdvancedTopics\09.RemoveNames\bin\Debug\09.RemoveNames.exe
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\HomeworkAdvancedTopics\09.RemoveNames\bin\Debug\09.RemoveNames.pdb
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\HomeworkAdvancedTopics\09.RemoveNames\obj\Debug\09.RemoveNames.csprojResolveAssemblyReference.cache
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\HomeworkAdvancedTopics\09.RemoveNames\obj\Debug\09.RemoveNames.exe
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\HomeworkAdvancedTopics\09.RemoveNames\obj\Debug\09.RemoveNames.pdb
+D:\SoftUni Homework\8.HomeworkAdvancedTopics\09.RemoveNames\bin\Debug\09.RemoveNames.exe.config
+D:\SoftUni Homework\8.HomeworkAdvancedTopics\09.RemoveNames\obj\Debug\09.RemoveNames.exe
+D:\SoftUni Homework\8.HomeworkAdvancedTopics\09.RemoveNames\obj\Debug\09.RemoveNames.pdb
+D:\SoftUni Homework\8.HomeworkAdvancedTopics\09.RemoveNames\bin\Debug\09.RemoveNames.exe
+D:\SoftUni Homework\8.HomeworkAdvancedTopics\09.RemoveNames\bin\Debug\09.RemoveNames.pdb
+D:\SoftUni Homework\8.HomeworkAdvancedTopics\09.RemoveNames\obj\Debug\09.RemoveNames.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\SoftUni Homework\8.HomeworkAdvancedTopics\13.AverageLoadTimeCalculator\bin\Debug\13.AverageLoadTimeCalculator.exe.config
+D:\SoftUni Homework\8.HomeworkAdvancedTopics\13.AverageLoadTimeCalculator\bin\Debug\13.AverageLoadTimeCalculator.exe
+D:\SoftUni Homework\8.HomeworkAdvancedTopics\13.AverageLoadTimeCalculator\bin\Debug\13.AverageLoadTimeCalculator.pdb
+D:\SoftUni Homework\8.HomeworkAdvancedTopics\13.AverageLoadTimeCalculator\obj\Debug\13.AverageLoadTimeCalculator.csprojResolveAssemblyReference.cache
+D:\SoftUni Homework\8.HomeworkAdvancedTopics\13.AverageLoadTimeCalculator\obj\Debug\13.AverageLoadTimeCalculator.exe
+D:\SoftUni Homework\8.HomeworkAdvancedTopics\13.AverageLoadTimeCalculator\obj\Debug\13.AverageLoadTimeCalculator.pdb

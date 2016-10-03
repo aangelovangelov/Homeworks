@@ -1,0 +1,4 @@
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\ExercisesOperatorsExpressionsStatements\09.BitDestroyer\bin\Debug\09.BitDestroyer.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\ExercisesOperatorsExpressionsStatements\09.BitDestroyer\bin\Debug\09.BitDestroyer.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\ExercisesOperatorsExpressionsStatements\09.BitDestroyer\obj\Debug\09.BitDestroyer.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\ExercisesOperatorsExpressionsStatements\09.BitDestroyer\obj\Debug\09.BitDestroyer.pdb

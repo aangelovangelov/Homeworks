@@ -1,0 +1,4 @@
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\HomeworkPrimitiveDataTypesAndVariables\17.Dumbbell\bin\Debug\17.Dumbbell.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\HomeworkPrimitiveDataTypesAndVariables\17.Dumbbell\bin\Debug\17.Dumbbell.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\HomeworkPrimitiveDataTypesAndVariables\17.Dumbbell\obj\Debug\17.Dumbbell.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\HomeworkPrimitiveDataTypesAndVariables\17.Dumbbell\obj\Debug\17.Dumbbell.pdb

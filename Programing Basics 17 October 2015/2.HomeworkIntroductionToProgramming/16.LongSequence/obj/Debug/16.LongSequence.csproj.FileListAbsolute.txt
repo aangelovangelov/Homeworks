@@ -1,0 +1,5 @@
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\HomeworkIntroductionToProgramming\16.LongSequence\bin\Debug\16.LongSequence.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\HomeworkIntroductionToProgramming\16.LongSequence\bin\Debug\16.LongSequence.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\HomeworkIntroductionToProgramming\16.LongSequence\obj\Debug\16.LongSequence.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\HomeworkIntroductionToProgramming\16.LongSequence\obj\Debug\16.LongSequence.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\HomeworkIntroductionToProgramming\16.LongSequence\obj\Debug\16.LongSequence.pdb

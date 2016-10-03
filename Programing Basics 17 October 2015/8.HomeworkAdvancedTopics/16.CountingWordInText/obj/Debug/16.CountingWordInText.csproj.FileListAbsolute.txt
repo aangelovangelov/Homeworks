@@ -1,0 +1,6 @@
+D:\SoftUni Homework\8.HomeworkAdvancedTopics\16.CountingWordInText\bin\Debug\16.CountingWordInText.exe.config
+D:\SoftUni Homework\8.HomeworkAdvancedTopics\16.CountingWordInText\bin\Debug\16.CountingWordInText.exe
+D:\SoftUni Homework\8.HomeworkAdvancedTopics\16.CountingWordInText\bin\Debug\16.CountingWordInText.pdb
+D:\SoftUni Homework\8.HomeworkAdvancedTopics\16.CountingWordInText\obj\Debug\16.CountingWordInText.csprojResolveAssemblyReference.cache
+D:\SoftUni Homework\8.HomeworkAdvancedTopics\16.CountingWordInText\obj\Debug\16.CountingWordInText.exe
+D:\SoftUni Homework\8.HomeworkAdvancedTopics\16.CountingWordInText\obj\Debug\16.CountingWordInText.pdb

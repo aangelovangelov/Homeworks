@@ -1,0 +1,4 @@
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\HomeworkIntroductionToProgramming\4.HelloCSharp\obj\Debug\4.HelloCSharp.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\HomeworkIntroductionToProgramming\4.HelloCSharp\obj\Debug\4.HelloCSharp.pdb
+D:\SoftUni Homework\2.HomeworkIntroductionToProgramming\4.HelloCSharp\obj\Debug\4.HelloCSharp.exe
+D:\SoftUni Homework\2.HomeworkIntroductionToProgramming\4.HelloCSharp\obj\Debug\4.HelloCSharp.pdb

@@ -1,0 +1,5 @@
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkOperatorsExpressionsStatements\06.FourDigitNumber\bin\Debug\06.FourDigitNumber.exe
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkOperatorsExpressionsStatements\06.FourDigitNumber\bin\Debug\06.FourDigitNumber.pdb
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkOperatorsExpressionsStatements\06.FourDigitNumber\obj\Debug\06.FourDigitNumber.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkOperatorsExpressionsStatements\06.FourDigitNumber\obj\Debug\06.FourDigitNumber.exe
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkOperatorsExpressionsStatements\06.FourDigitNumber\obj\Debug\06.FourDigitNumber.pdb

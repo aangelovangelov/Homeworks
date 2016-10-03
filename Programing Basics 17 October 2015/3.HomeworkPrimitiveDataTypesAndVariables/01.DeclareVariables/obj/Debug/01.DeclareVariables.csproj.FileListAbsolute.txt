@@ -1,0 +1,1 @@
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkPrimitiveDataTypesAndVariables\01.DeclareVariables\bin\Debug\01.DeclareVariables.exe.config

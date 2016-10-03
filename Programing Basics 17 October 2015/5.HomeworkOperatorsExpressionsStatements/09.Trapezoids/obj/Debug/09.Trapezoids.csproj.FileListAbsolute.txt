@@ -1,0 +1,4 @@
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkOperatorsExpressionsStatements\09.Trapezoids\bin\Debug\09.Trapezoids.exe
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkOperatorsExpressionsStatements\09.Trapezoids\bin\Debug\09.Trapezoids.pdb
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkOperatorsExpressionsStatements\09.Trapezoids\obj\Debug\09.Trapezoids.exe
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkOperatorsExpressionsStatements\09.Trapezoids\obj\Debug\09.Trapezoids.pdb

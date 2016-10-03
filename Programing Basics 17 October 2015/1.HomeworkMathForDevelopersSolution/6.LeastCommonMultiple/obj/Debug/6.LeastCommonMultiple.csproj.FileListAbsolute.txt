@@ -1,0 +1,7 @@
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\HomeworkMathForDevelopersSolution\6.LeastCommonMultiple\bin\Debug\6.LeastCommonMultiple.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\HomeworkMathForDevelopersSolution\6.LeastCommonMultiple\bin\Debug\6.LeastCommonMultiple.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\HomeworkMathForDevelopersSolution\6.LeastCommonMultiple\obj\Debug\6.LeastCommonMultiple.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\HomeworkMathForDevelopersSolution\6.LeastCommonMultiple\obj\Debug\6.LeastCommonMultiple.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\HomeworkMathForDevelopersSolution\6.LeastCommonMultiple\obj\Debug\6.LeastCommonMultiple.pdb
+D:\SoftUni Homework\HomeworkMathForDevelopersSolution\6.LeastCommonMultiple\obj\Debug\6.LeastCommonMultiple.exe
+D:\SoftUni Homework\HomeworkMathForDevelopersSolution\6.LeastCommonMultiple\obj\Debug\6.LeastCommonMultiple.pdb

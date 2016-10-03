@@ -1,0 +1,6 @@
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\HomeworkConditionalStatements\03.CheckPlayCard\bin\Debug\03.CheckPlayCard.exe
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\HomeworkConditionalStatements\03.CheckPlayCard\bin\Debug\03.CheckPlayCard.pdb
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\HomeworkConditionalStatements\03.CheckPlayCard\obj\Debug\03.CheckPlayCard.exe
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\HomeworkConditionalStatements\03.CheckPlayCard\obj\Debug\03.CheckPlayCard.pdb
+D:\SoftUni Homework\6.HomeworkConditionalStatements\03.CheckPlayCard\obj\Debug\03.CheckPlayCard.exe
+D:\SoftUni Homework\6.HomeworkConditionalStatements\03.CheckPlayCard\obj\Debug\03.CheckPlayCard.pdb

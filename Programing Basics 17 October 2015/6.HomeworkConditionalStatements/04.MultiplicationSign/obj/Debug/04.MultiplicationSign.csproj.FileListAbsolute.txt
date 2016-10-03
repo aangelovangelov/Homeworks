@@ -1,0 +1,9 @@
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\HomeworkConditionalStatements\04.MultiplicationSign\bin\Debug\04.MultiplicationSign.exe
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\HomeworkConditionalStatements\04.MultiplicationSign\bin\Debug\04.MultiplicationSign.pdb
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\HomeworkConditionalStatements\04.MultiplicationSign\obj\Debug\04.MultiplicationSign.exe
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\HomeworkConditionalStatements\04.MultiplicationSign\obj\Debug\04.MultiplicationSign.pdb
+D:\SoftUni Homework\6.HomeworkConditionalStatements\04.MultiplicationSign\obj\Debug\04.MultiplicationSign.exe
+D:\SoftUni Homework\6.HomeworkConditionalStatements\04.MultiplicationSign\obj\Debug\04.MultiplicationSign.pdb
+D:\SoftUni Homework\6.HomeworkConditionalStatements\04.MultiplicationSign\bin\Debug\04.MultiplicationSign.exe
+D:\SoftUni Homework\6.HomeworkConditionalStatements\04.MultiplicationSign\bin\Debug\04.MultiplicationSign.pdb
+D:\SoftUni Homework\6.HomeworkConditionalStatements\04.MultiplicationSign\obj\Debug\04.MultiplicationSign.csprojResolveAssemblyReference.cache

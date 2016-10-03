@@ -1,0 +1,5 @@
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\07.HomeworkLoops\18.TrailingZeroes\bin\Debug\18.TrailingZeroes.exe
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\07.HomeworkLoops\18.TrailingZeroes\bin\Debug\18.TrailingZeroes.pdb
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\07.HomeworkLoops\18.TrailingZeroes\obj\Debug\18.TrailingZeroes.csprojResolveAssemblyReference.cache
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\07.HomeworkLoops\18.TrailingZeroes\obj\Debug\18.TrailingZeroes.exe
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\07.HomeworkLoops\18.TrailingZeroes\obj\Debug\18.TrailingZeroes.pdb

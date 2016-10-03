@@ -1,0 +1,4 @@
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkIntroductionToProgramming\5.MyName\bin\Debug\5.MyName.exe
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkIntroductionToProgramming\5.MyName\bin\Debug\5.MyName.pdb
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkIntroductionToProgramming\5.MyName\obj\Debug\5.MyName.exe
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkIntroductionToProgramming\5.MyName\obj\Debug\5.MyName.pdb

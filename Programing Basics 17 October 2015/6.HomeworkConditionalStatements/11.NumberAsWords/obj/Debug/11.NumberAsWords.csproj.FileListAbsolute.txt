@@ -1,0 +1,7 @@
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\HomeworkConditionalStatements\11.NumberAsWords\bin\Debug\11.NumberAsWords.exe
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\HomeworkConditionalStatements\11.NumberAsWords\bin\Debug\11.NumberAsWords.pdb
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\HomeworkConditionalStatements\11.NumberAsWords\obj\Debug\11.NumberAsWords.csprojResolveAssemblyReference.cache
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\HomeworkConditionalStatements\11.NumberAsWords\obj\Debug\11.NumberAsWords.exe
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\HomeworkConditionalStatements\11.NumberAsWords\obj\Debug\11.NumberAsWords.pdb
+D:\SoftUni Homework\6.HomeworkConditionalStatements\11.NumberAsWords\obj\Debug\11.NumberAsWords.exe
+D:\SoftUni Homework\6.HomeworkConditionalStatements\11.NumberAsWords\obj\Debug\11.NumberAsWords.pdb

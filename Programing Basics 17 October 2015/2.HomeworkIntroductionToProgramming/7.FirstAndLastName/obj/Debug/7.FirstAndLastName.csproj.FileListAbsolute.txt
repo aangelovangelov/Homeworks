@@ -1,0 +1,4 @@
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkIntroductionToProgramming\7.FirstAndLastName\bin\Debug\7.FirstAndLastName.exe
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkIntroductionToProgramming\7.FirstAndLastName\bin\Debug\7.FirstAndLastName.pdb
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkIntroductionToProgramming\7.FirstAndLastName\obj\Debug\7.FirstAndLastName.exe
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkIntroductionToProgramming\7.FirstAndLastName\obj\Debug\7.FirstAndLastName.pdb

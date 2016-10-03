@@ -1,0 +1,9 @@
+c:\users\angelov\documents\visual studio 2015\Projects\ExercisesAdvancedTopics\02.Power\obj\Debug\02.Power.csprojResolveAssemblyReference.cache
+c:\users\angelov\documents\visual studio 2015\Projects\ExercisesAdvancedTopics\02.Power\bin\Debug\02.Power.exe.config
+c:\users\angelov\documents\visual studio 2015\Projects\ExercisesAdvancedTopics\02.Power\bin\Debug\02.Power.exe
+c:\users\angelov\documents\visual studio 2015\Projects\ExercisesAdvancedTopics\02.Power\bin\Debug\02.Power.pdb
+c:\users\angelov\documents\visual studio 2015\Projects\ExercisesAdvancedTopics\02.Power\obj\Debug\02.Power.exe
+c:\users\angelov\documents\visual studio 2015\Projects\ExercisesAdvancedTopics\02.Power\obj\Debug\02.Power.pdb
+D:\SoftUni Homework\8.HomeworkAdvancedTopics\ExercisesAdvancedTopics\02.Power\bin\Debug\02.Power.exe.config
+D:\SoftUni Homework\8.HomeworkAdvancedTopics\ExercisesAdvancedTopics\02.Power\obj\Debug\02.Power.exe
+D:\SoftUni Homework\8.HomeworkAdvancedTopics\ExercisesAdvancedTopics\02.Power\obj\Debug\02.Power.pdb

@@ -1,0 +1,4 @@
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\ExercisesOperatorsExpressionsStatements\02.Trapezoid\bin\Debug\02.Trapezoid.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\ExercisesOperatorsExpressionsStatements\02.Trapezoid\bin\Debug\02.Trapezoid.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\ExercisesOperatorsExpressionsStatements\02.Trapezoid\obj\Debug\02.Trapezoid.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\ExercisesOperatorsExpressionsStatements\02.Trapezoid\obj\Debug\02.Trapezoid.pdb

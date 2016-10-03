@@ -1,0 +1,5 @@
+c:\users\angelov\documents\visual studio 2015\Projects\07.HomeworkLoops\06.CalculateDivisionOfFactorials\bin\Debug\06.CalculateDivisionOfFactorials.exe
+c:\users\angelov\documents\visual studio 2015\Projects\07.HomeworkLoops\06.CalculateDivisionOfFactorials\bin\Debug\06.CalculateDivisionOfFactorials.pdb
+c:\users\angelov\documents\visual studio 2015\Projects\07.HomeworkLoops\06.CalculateDivisionOfFactorials\obj\Debug\06.CalculateDivisionOfFactorials.csprojResolveAssemblyReference.cache
+c:\users\angelov\documents\visual studio 2015\Projects\07.HomeworkLoops\06.CalculateDivisionOfFactorials\obj\Debug\06.CalculateDivisionOfFactorials.exe
+c:\users\angelov\documents\visual studio 2015\Projects\07.HomeworkLoops\06.CalculateDivisionOfFactorials\obj\Debug\06.CalculateDivisionOfFactorials.pdb

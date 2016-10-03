@@ -1,0 +1,4 @@
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\HomeworkConsoleInputOutput\05.FormattingNumbers\bin\Debug\05.FormattingNumbers.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\HomeworkConsoleInputOutput\05.FormattingNumbers\bin\Debug\05.FormattingNumbers.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\HomeworkConsoleInputOutput\05.FormattingNumbers\obj\Debug\05.FormattingNumbers.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\HomeworkConsoleInputOutput\05.FormattingNumbers\obj\Debug\05.FormattingNumbers.pdb

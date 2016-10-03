@@ -1,0 +1,12 @@
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\HomeworkAdvancedTopics\10.JoinLists\bin\Debug\10.JoinLists.exe.config
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\HomeworkAdvancedTopics\10.JoinLists\bin\Debug\10.JoinLists.exe
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\HomeworkAdvancedTopics\10.JoinLists\bin\Debug\10.JoinLists.pdb
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\HomeworkAdvancedTopics\10.JoinLists\obj\Debug\10.JoinLists.csprojResolveAssemblyReference.cache
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\HomeworkAdvancedTopics\10.JoinLists\obj\Debug\10.JoinLists.exe
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\HomeworkAdvancedTopics\10.JoinLists\obj\Debug\10.JoinLists.pdb
+D:\SoftUni Homework\8.HomeworkAdvancedTopics\10.JoinLists\bin\Debug\10.JoinLists.exe.config
+D:\SoftUni Homework\8.HomeworkAdvancedTopics\10.JoinLists\obj\Debug\10.JoinLists.exe
+D:\SoftUni Homework\8.HomeworkAdvancedTopics\10.JoinLists\obj\Debug\10.JoinLists.pdb
+D:\SoftUni Homework\8.HomeworkAdvancedTopics\10.JoinLists\bin\Debug\10.JoinLists.exe
+D:\SoftUni Homework\8.HomeworkAdvancedTopics\10.JoinLists\bin\Debug\10.JoinLists.pdb
+D:\SoftUni Homework\8.HomeworkAdvancedTopics\10.JoinLists\obj\Debug\10.JoinLists.csprojResolveAssemblyReference.cache

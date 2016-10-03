@@ -1,0 +1,9 @@
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\HomeworkConditionalStatements\07.SortNumbersWithNestedIfs\bin\Debug\07.SortNumbersWithNestedIfs.exe
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\HomeworkConditionalStatements\07.SortNumbersWithNestedIfs\bin\Debug\07.SortNumbersWithNestedIfs.pdb
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\HomeworkConditionalStatements\07.SortNumbersWithNestedIfs\obj\Debug\07.SortNumbersWithNestedIfs.exe
+C:\Users\Angelov\Documents\Visual Studio 2015\Projects\HomeworkConditionalStatements\07.SortNumbersWithNestedIfs\obj\Debug\07.SortNumbersWithNestedIfs.pdb
+D:\SoftUni Homework\6.HomeworkConditionalStatements\07.SortNumbersWithNestedIfs\obj\Debug\07.SortNumbersWithNestedIfs.exe
+D:\SoftUni Homework\6.HomeworkConditionalStatements\07.SortNumbersWithNestedIfs\obj\Debug\07.SortNumbersWithNestedIfs.pdb
+D:\SoftUni Homework\6.HomeworkConditionalStatements\07.SortNumbersWithNestedIfs\bin\Debug\07.SortNumbersWithNestedIfs.exe
+D:\SoftUni Homework\6.HomeworkConditionalStatements\07.SortNumbersWithNestedIfs\bin\Debug\07.SortNumbersWithNestedIfs.pdb
+D:\SoftUni Homework\6.HomeworkConditionalStatements\07.SortNumbersWithNestedIfs\obj\Debug\07.SortNumbersWithNestedIfs.csprojResolveAssemblyReference.cache

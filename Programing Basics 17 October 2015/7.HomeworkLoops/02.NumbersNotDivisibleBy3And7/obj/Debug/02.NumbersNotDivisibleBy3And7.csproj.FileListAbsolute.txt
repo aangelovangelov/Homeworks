@@ -1,0 +1,5 @@
+c:\users\angelov\documents\visual studio 2015\Projects\07.HomeworkLoops\02.NumbersNotDivisibleBy3And7\bin\Debug\02.NumbersNotDivisibleBy3And7.exe
+c:\users\angelov\documents\visual studio 2015\Projects\07.HomeworkLoops\02.NumbersNotDivisibleBy3And7\bin\Debug\02.NumbersNotDivisibleBy3And7.pdb
+c:\users\angelov\documents\visual studio 2015\Projects\07.HomeworkLoops\02.NumbersNotDivisibleBy3And7\obj\Debug\02.NumbersNotDivisibleBy3And7.exe
+c:\users\angelov\documents\visual studio 2015\Projects\07.HomeworkLoops\02.NumbersNotDivisibleBy3And7\obj\Debug\02.NumbersNotDivisibleBy3And7.pdb
+c:\users\angelov\documents\visual studio 2015\Projects\07.HomeworkLoops\02.NumbersNotDivisibleBy3And7\obj\Debug\02.NumbersNotDivisibleBy3And7.csprojResolveAssemblyReference.cache

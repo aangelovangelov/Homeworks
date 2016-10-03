@@ -1,0 +1,4 @@
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkPrimitiveDataTypesAndVariables\12.NullValuesArithmetic\bin\Debug\12.NullValuesArithmetic.exe
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkPrimitiveDataTypesAndVariables\12.NullValuesArithmetic\bin\Debug\12.NullValuesArithmetic.pdb
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkPrimitiveDataTypesAndVariables\12.NullValuesArithmetic\obj\Debug\12.NullValuesArithmetic.exe
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkPrimitiveDataTypesAndVariables\12.NullValuesArithmetic\obj\Debug\12.NullValuesArithmetic.pdb

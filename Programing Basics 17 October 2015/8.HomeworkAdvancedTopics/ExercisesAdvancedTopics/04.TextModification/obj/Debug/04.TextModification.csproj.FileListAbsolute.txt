@@ -1,0 +1,9 @@
+c:\users\angelov\documents\visual studio 2015\Projects\ExercisesAdvancedTopics\04.TextModification\bin\Debug\04.TextModification.exe.config
+c:\users\angelov\documents\visual studio 2015\Projects\ExercisesAdvancedTopics\04.TextModification\bin\Debug\04.TextModification.exe
+c:\users\angelov\documents\visual studio 2015\Projects\ExercisesAdvancedTopics\04.TextModification\bin\Debug\04.TextModification.pdb
+c:\users\angelov\documents\visual studio 2015\Projects\ExercisesAdvancedTopics\04.TextModification\obj\Debug\04.TextModification.exe
+c:\users\angelov\documents\visual studio 2015\Projects\ExercisesAdvancedTopics\04.TextModification\obj\Debug\04.TextModification.pdb
+c:\users\angelov\documents\visual studio 2015\Projects\ExercisesAdvancedTopics\04.TextModification\obj\Debug\04.TextModification.csprojResolveAssemblyReference.cache
+D:\SoftUni Homework\8.HomeworkAdvancedTopics\ExercisesAdvancedTopics\04.TextModification\bin\Debug\04.TextModification.exe.config
+D:\SoftUni Homework\8.HomeworkAdvancedTopics\ExercisesAdvancedTopics\04.TextModification\obj\Debug\04.TextModification.exe
+D:\SoftUni Homework\8.HomeworkAdvancedTopics\ExercisesAdvancedTopics\04.TextModification\obj\Debug\04.TextModification.pdb

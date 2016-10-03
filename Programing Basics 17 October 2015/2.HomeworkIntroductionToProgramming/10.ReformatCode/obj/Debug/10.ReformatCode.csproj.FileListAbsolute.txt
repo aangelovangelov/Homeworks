@@ -1,0 +1,6 @@
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkIntroductionToProgramming\10.ReformatCode\bin\Debug\10.ReformatCode.exe
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkIntroductionToProgramming\10.ReformatCode\bin\Debug\10.ReformatCode.pdb
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkIntroductionToProgramming\10.ReformatCode\obj\Debug\10.ReformatCode.exe
+c:\users\alex\documents\visual studio 2015\Projects\HomeworkIntroductionToProgramming\10.ReformatCode\obj\Debug\10.ReformatCode.pdb
+D:\SoftUni Homework\2.HomeworkIntroductionToProgramming\10.ReformatCode\obj\Debug\10.ReformatCode.exe
+D:\SoftUni Homework\2.HomeworkIntroductionToProgramming\10.ReformatCode\obj\Debug\10.ReformatCode.pdb
